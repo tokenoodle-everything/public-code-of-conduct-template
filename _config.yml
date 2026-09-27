@@ -1,0 +1,4 @@
+# _config.yml
+title: Coc Site
+markdown: kramdown
+theme: minima
