@@ -1,4 +1,7 @@
 # Code of Conduct
+
+Donate us 💖 [![$1](https://img.shields.io/badge/Donate-$1-00457C?logo=paypal)](https://paypal.me/tokenoodle/1)
+
 ## 1. Purpose
 This Code of Conduct outlines expectations for all members, contributors, and participants in this project community. Our goal is to foster an open, respectful, inclusive, and collaborative environment for everyone, regardless of age, background, experience level, identity, or perspective.
 
@@ -33,3 +36,5 @@ This Code of Conduct applies to all project spaces, including code repositories,
 
 ## 7. Attribution
 This Code of Conduct is adapted from common open-source community guidelines and the Contributor Covenant.
+
+Official webpage of this Code of Conduct: <https://coc.tokenoodle.com>
