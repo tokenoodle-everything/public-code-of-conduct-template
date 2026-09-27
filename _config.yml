@@ -1,4 +1,5 @@
 # _config.yml
 title: Coc Site
+description: Code of conduct page for tokenoodle-everything
 markdown: kramdown
 theme: minima
