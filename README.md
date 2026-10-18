@@ -17,6 +17,10 @@ This template helps maintainers quickly add a clear, consistent community standa
 ## Included files
 
 - `CODE_OF_CONDUCT.md` — the reusable Tokenoodle Everything Code of Conduct
+- `index.md` — Jekyll homepage (rendered as coc.tokenoodle.com)
+- `_config.yml` — Jekyll site configuration
+- `CNAME` — Custom domain record for GitHub Pages
+- `LICENSE` — CC0 1.0 Universal legal text
 - `README.md` — usage guidance for maintainers
 
 ## How to use this template
