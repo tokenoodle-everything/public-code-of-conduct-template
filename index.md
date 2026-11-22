@@ -1,6 +1,6 @@
 # Code of Conduct
 
-Donate us 💖 [![$1](https://img.shields.io/badge/Donate-$1-00457C?logo=paypal)](https://paypal.me/tokenoodle/1)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W6X42B1NF9)
 
 ## 1. Purpose
 This Code of Conduct outlines expectations for all members, contributors, and participants in this project community. Our goal is to foster an open, respectful, inclusive, and collaborative environment for everyone, regardless of age, background, experience level, identity, or perspective.
