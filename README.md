@@ -1,5 +1,8 @@
 # Tokenoodle Everything Code of Conduct Template
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W6X42B1NF9)
+
+
 A reusable, lightweight Code of Conduct template for Tokenoodle Everything projects.
 
 This repository contains the official Tokenoodle Everything Code of Conduct used for open-source projects. It is intentionally simpler and more tailored than the standard Contributor Covenant, and is designed to be easy to adopt across the ecosystem.
